@@ -13,7 +13,7 @@
             <div class="col-lg-4">
                 <div class="card">
                     <div class="card-body">
-                        <form action="" method="post">
+                        <form action="" method="post" id="frm">
                             <div class="form-group">
                                 <label for="">codigo</label>
                                 <input type="text" name="codigo" id="codigo" placeholder="codigo" class="form-control">
@@ -58,7 +58,7 @@
     </div>
 
 
-
+    <script src="script.js"></script>
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </body>
 </html>
